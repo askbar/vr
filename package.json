@@ -1,0 +1,17 @@
+{
+  "name": "top-vr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "vr"
+  ],
+  "author": "ask",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
